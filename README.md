@@ -8,6 +8,7 @@
 - [KPI's](#kpis)
 - [Steps Taken](#steps-taken)
 - [Important Outcomes](#important-outcomes)
+- [Dashboard Screenshot](#dashboard-screenshot)
 
 ## Project Overview
 
@@ -55,5 +56,11 @@ Here i used MS excel for data trensformation and for getting all the analysis an
 - AVG Ratings  = 3.9
 
 Rest of the things are given in the data file which is uploaded...
+
+## Dashboard Screenshot
+
+<img width="1002" alt="Blinkit_Dashboard" src="https://github.com/user-attachments/assets/5bb1d1de-95cc-45f5-9e20-8c1723492c11" />
+
+
 
 
