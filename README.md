@@ -1,5 +1,14 @@
 # Blinkit Sales Analysis - Excel Project
 
+## Table Of Content
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tool Used](#tool-used)
+- [KPI's](#kpis)
+- [Steps Taken](#steps-taken)
+- [Important Outcomes](#important-outcomes)
+
 ## Project Overview
 
 This data project aims to provide insights into sales performance of an online grocery store called "Blinkit". By analyzing various aspects of the sales data, seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
@@ -12,7 +21,7 @@ The primary dataset used for this analysis is the BlinkIT Grocery data which is 
 
 Here i used MS excel for data trensformation and for getting all the analysis and dashboarding. I have done all the the task only is Excel according the KPI's requirements. 
 
-## KPI's
+## KPIs
 
 -	Total sales
 -	Average sales 
