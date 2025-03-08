@@ -20,7 +20,7 @@ The primary dataset used for this analysis is the BlinkIT Grocery data which is 
 
 ## Tool Used
 
-Here i used MS excel for data trensformation and for getting all the analysis and dashboarding. I have done all the the task only is Excel according the KPI's requirements. 
+Here i used MS excel for data trensformation and for getting all the analysis and dashboarding. I have done all the task only on Excel according to the KPI's requirements. 
 
 ## KPIs
 
